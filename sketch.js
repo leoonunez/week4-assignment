@@ -25,7 +25,7 @@ translate(width/2, height/2);
 
 rotate(angle1);
 fill(100,0,100,190);
-rect (0, 0, 750);
+rect (0, 0, height/2);
 
 fill(100,100,200,100);
 rotate(angle1);
