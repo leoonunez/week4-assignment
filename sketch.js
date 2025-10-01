@@ -25,15 +25,15 @@ translate(width/2, height/2);
 
 rotate(angle1);
 fill(100,0,100,190);
-rect (0, 0, height/2);
+rect (0, 0, width);
 
 fill(100,100,200,100);
 rotate(angle1);
-rect (0, 0, 600);
+rect (0, 0, width/1.15);
 
 fill(200,50,100,200);
 rotate(angle4);
-rect (0, 0, 600);
+rect (0, 0, width/2);
 
 fill(100, 50, 200);
 rotate(angle4);
